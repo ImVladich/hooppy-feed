@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Hoopy Feed</title>
-    <link>https://imvladich.github.io/hooppy-feed/</link>
-    <description>Мой RSS-фид для автопостинга в Hoopy</description>
+    <title>Reels Feed</title>
+    <link>https://imvladich.github.io/hooppy-feed</link>
+    <description>RSS для Hoopy</description>
+    <lastBuildDate>2025-06-20T07:17:18.684Z</lastBuildDate>
+
+    <item>
+      <title>Открой Вьетнам за 5 дней: Топ маршрут мечты! 🇻🇳 #shorts #вьетнам #путешествия</title>
+      <link>https://imvladich.github.io/hooppy-feed/videos/video.mp4</link>
+      <description>Станьте частью мечты и откройте загадочный Вьетнам всего за 5 дней! Будьте готовы погрузиться в культуру и красоту этих удивительных мест. Забронируйте свое путешествие сейчас! #вьетнам #жизньввьетнаме #путешествиеввьетнам #переездввьетнам #хошимин #дананг #нячанг #фукуок #хойан #shorts</description>
+      <pubDate>2025-06-20T07:17:18.684Z</pubDate>
+      <enclosure url="https://imvladich.github.io/hooppy-feed/videos/video.mp4" type="video/mp4"/>
+      <guid isPermaLink="false">18365334784181523</guid>
+    </item>
   </channel>
 </rss>
-
